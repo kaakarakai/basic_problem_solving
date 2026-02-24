@@ -7,3 +7,7 @@ enter your temparature in celcius: 20
 enter your length : 20
 enter your breadth: 10
 200
+# output of perimeter_of_rectangle.py
+enter your length : 21
+enter your breadth: 10
+62
